@@ -1,0 +1,6 @@
+paho-mqtt
+httplib2>=0.10.3
+netifaces>=0.10.6
+tornado>=4.5.1
+yeelight
+CoAPthon3
